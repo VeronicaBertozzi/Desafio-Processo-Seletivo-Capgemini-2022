@@ -94,8 +94,7 @@ do
 ---------------------------------------------------------------------------
 
 ## Tecnologias utilizadas
-- [x] Java
-Linguagem de programação para desenvolvimento da aplicação
+- [x] Java - linguagem de programação para desenvolvimento da aplicação
 
 -----------------------------------------------------------------------------
 
