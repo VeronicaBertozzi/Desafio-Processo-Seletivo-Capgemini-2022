@@ -1,9 +1,10 @@
-# Desafio-Programa-o-Capgemini-2022
+# Desafio de programação Capgemini - 2022
 Desafio de programação em processo seletivo da Capgemini
 
 ## Desafios:
 
-**Desafio 01:** A mediana de uma lista de números é basicamente o elemento que se encontra no meio da lista após a ordenação. Dada uma lista de números com um número ímpar de elementos, desenvolva um algoritmo que encontre a mediana.
+### Desafio 01: 
+A mediana de uma lista de números é basicamente o elemento que se encontra no meio da lista após a ordenação. Dada uma lista de números com um número ímpar de elementos, desenvolva um algoritmo que encontre a mediana.
 
 **Exemplo:**
 
@@ -17,7 +18,8 @@ arr = [9, 2, 1, 4, 6]
 4
 ```
 
-**Desafio 02:** Dado um vetor de inteiros n e um inteiro qualquer x. Construa um algoritmo que determine o número de elementos pares do vetor que tem uma diferença igual ao valor de x.
+### Desafio 02: 
+Dado um vetor de inteiros n e um inteiro qualquer x. Construa um algoritmo que determine o número de elementos pares do vetor que tem uma diferença igual ao valor de x.
 
 **Exemplo:**
 
@@ -35,9 +37,10 @@ n = [1, 5, 3, 4, 2]
 
 Existem 3 pares de inteiros no vetor com uma diferença de 2: [5, 3], [4, 2] e [3, 1].
 				
-**Desafio 03:** Um texto precisa ser encriptado usando o seguinte esquema. Primeiro, os espaços são removidos do texto. Então, os caracteres são escritos em um grid, no qual as linhas e colunas tem as seguintes regras:
+### Desafio 03: 
+Um texto precisa ser encriptado usando o seguinte esquema. Primeiro, os espaços são removidos do texto. Então, os caracteres são escritos em um grid, no qual as linhas e colunas tem as seguintes regras:
 
-\sqrt{t}<=linha<=coluna<=\sqrt{t}
+√t<=linha<=coluna<=√t
 
 - Considere T, como o tamanho do texto.
 - Se certifique de que linhas x colunas >= .
@@ -59,14 +62,14 @@ taoa eum nmd hbi
 
 **Explicação:**
 
-Depois de remover os espaços, a string tem 13 caracteres. \sqrt{13} está entre 3 e 4, então a string é rescrita na forma de um grid com 4 linhas e 4 colunas:
+Depois de remover os espaços, a string tem 13 caracteres. √13 está entre 3 e 4, então a string é rescrita na forma de um grid com 4 linhas e 4 colunas:
 ```
 tenh
 aumb
 omdi
 a
 ```
-        O resultado é obtido ao mostrar os caracteres de cada coluna, com um espaço entre as colunas de texto. A mensagem encriptada é obtida ao mostrar os caracteres de cada linha com um espaço entre as colunas.
+O resultado é obtido ao mostrar os caracteres de cada coluna, com um espaço entre as colunas de texto. A mensagem encriptada é obtida ao mostrar os caracteres de cada linha com um espaço entre as colunas.
 
 
 **Exemplo 2)**
@@ -81,7 +84,7 @@ omd luo an
 ```
 **Explicação:**
 
-        Depois de remover os espaços a string tem 8 caracteres. \sqrt{8} está entre 2 e 3, então a string é reescrita na forma de um grid com 3 linhas e 3 colunas:
+Depois de remover os espaços a string tem 8 caracteres. √8 está entre 2 e 3, então a string é reescrita na forma de um grid com 3 linhas e 3 colunas:
 ```
 ola
 mun
@@ -107,13 +110,13 @@ Linguagem de programação para desenvolvimento da aplicação
 
 * Fazer clone do projeto
 ```
-https://github.com/VeronicaBertozzi/Desafio-Programa-o-Capgemini-2022.git
+https://github.com/VeronicaBertozzi/Desafio-Processo-Seletivo-Capgemini-2022.git
 ```
 * Entrando na pasta do projeto
 ```
 cd Desafio-Processo-Seletivo-Capgemini-2022
 ```
-* Execute as classes 
+* Execute as classes de acordo com a questão para obter o resultado. 
 ----------------------------------------------------------------------
 ## Estrutura de arquivos
 ```
